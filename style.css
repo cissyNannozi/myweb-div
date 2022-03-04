@@ -41,8 +41,8 @@
     background: turquoise;
 }
 #main-logo{
-    width: 300px;
-    height: 300px;
+    width: 100px;
+    height: 100px;
     border-bottom: 100%;
     
 }
@@ -71,4 +71,7 @@
     width: 1000px;
     height: 950px;
 }
+
+    
+
 
